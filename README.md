@@ -34,15 +34,15 @@
 - [ReactOS Git mirror](https://git.reactos.org)
 - [Testman](https://reactos.org/testman/)
 
-## What is ReactOS?
+## What is Windows 9?
 
-ReactOS™ is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft® Windows™ NT family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
+Windows 9™ is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft® Windows™ NT family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
 
-The ReactOS project, although currently focused on Windows Server 2003 compatibility, is always keeping an eye toward compatibility with Windows Vista and future Windows NT releases.
+The Windows 9 project, although currently focused on Windows Server 2003 compatibility, is always keeping an eye toward compatibility with Windows Vista and future Windows NT releases.
 
-The code of ReactOS is licensed under [GNU GPL 2.0](https://github.com/reactos/reactos/blob/master/COPYING).
+The code of Windows 9 is licensed under [GNU GPL 2.0](https://github.com/reactos/reactos/blob/master/COPYING).
 
-## Building 
+## About ReactOS (the kernel i used)
 
 [![appveyor.badge]][appveyor.link] [![travis.badge]][travis.link] [![rosbewin.badge]][rosbewin.link] [![rosbeunix.badge]][rosbeunix.link] [![coverity.badge]][coverity.link]
 
