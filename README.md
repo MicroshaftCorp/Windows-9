@@ -20,8 +20,8 @@
   <a href="https://reactos.org/donating">
     <img alt="Donate" src="https://img.shields.io/badge/%24-donate-E44E4A.svg">
   </a>
-  <a href="https://twitter.com/reactos">
-    <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/reactos.svg?style=social&label=Follow%20%40reactos">
+  <a href="https://twitter.com/microshaft">
+    <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/reactos.svg?style=social&label=Follow%20%40Microsoft">
   </a>
 </p>
 
