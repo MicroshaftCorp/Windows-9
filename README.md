@@ -9,7 +9,7 @@
     <img alt="ReactOS 0.4.9 Release" src="https://img.shields.io/badge/release-0.4.9-0688CB.svg">
   </a>
   <a href="https://reactos.org/download">
-    <img alt="Download ReactOS" src="https://img.shields.io/badge/download-latest-0688CB.svg">
+    <img alt="Download Windows 9" src="ms-settings:windowsinsider">
   </a>
   <a href="https://sourceforge.net/projects/reactos">
     <img alt="SourceForge Download" src="https://img.shields.io/sourceforge/dm/reactos.svg?colorB=0688CB">
